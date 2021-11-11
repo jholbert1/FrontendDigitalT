@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Instalacion
+VUE_APP_API => Url del proyecto del backend
+
+VUE_APP_SECRET_KEY => Url para encryptar contraseña
